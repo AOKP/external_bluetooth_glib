@@ -1,0 +1,8 @@
+Change-Id: Ia401e173e40480eee5539b3c5f9ec53878ee778d
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Mon, 11 Jun 2012 21:43:24 -0500
+Reviewed-on: http://gerrit.sudoservers.com/1320
+Project: AOKP/external_bluetooth_glib
+Branch: refs/heads/ics
